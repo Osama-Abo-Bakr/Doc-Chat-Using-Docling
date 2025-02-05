@@ -1,0 +1,9 @@
+docling
+langchain
+langchain_openai
+langchain_community
+langchain_core
+langchain_experimental
+streamlit==1.24.0
+faiss-cpu
+groq

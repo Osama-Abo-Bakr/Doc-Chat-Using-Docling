@@ -1,0 +1,5 @@
+.env
+main.py
+test.py
+data/*
+rag-docling/*
