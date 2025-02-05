@@ -14,8 +14,8 @@ The **RAG QA System for PDF Using Docling** is an AI-powered application designe
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/Osama-Abo-Bakr/Doc-Chat-Using-Docling.git
+cd Doc-Chat-Using-Docling
 ```
 
 ### 2. Setting Up the Environment
